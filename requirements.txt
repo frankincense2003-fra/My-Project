@@ -1,0 +1,8 @@
+# Project Requirements
+# Customer Research & Market Insights Analytics
+
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
