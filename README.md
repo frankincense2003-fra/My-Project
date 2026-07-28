@@ -357,4 +357,4 @@ Junior Data Scientist | Python Developer | Data Analyst
 - Data Visualization
 - Exploratory Data Analysis
 
-GitHub: [https://github.com/frankincense2003-fra]
+GitHub: [https://github.com/frankincense2003-fra/My-Project]
